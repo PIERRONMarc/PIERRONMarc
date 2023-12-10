@@ -1,6 +1,6 @@
 ![header](assets/header.png)
 
-💼 Web developer at [@Chronotruck](https://www.chronotruck.com)
+💼 Web developer [@Chronotruck](https://www.chronotruck.com)
 
 🎓 Alumni [@HETIC](https://hetic.net)
 
